@@ -29,7 +29,7 @@ This project demonstrates how to implement shared element transitions using Jetp
 
 Add the following dependencies in your `libs.versions.toml` file:
 
-```groovy
+```toml
 [versions]
 # COIL COMPOSE :->
 coil = "2.6.0"
